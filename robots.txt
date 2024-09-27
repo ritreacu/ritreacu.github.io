@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ritreacu.github.io/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/app/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/assets/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/css/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/data/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/includes/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/item/sitemap.ritreacu.gz
+Sitemap: https://ritreacu.github.io/src/sitemap.ritreacu.gz
